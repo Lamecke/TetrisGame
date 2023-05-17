@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TetrisGame" parent="Theme.AppCompat.DayNight.NoActionBar">
+
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">@color/app_bg</item>
+    </style>
+
+    <style name="Theme.TetrisGame" parent="Base.Theme.TetrisGame" />
+</resources>
